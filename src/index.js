@@ -173,3 +173,17 @@
 //   return num % 2 === 1;
 // });
 // console.log(newNumArr);
+
+/**
+ * 三項演算子
+ */
+// 条件文 ? 条件がtrueの時 : 条件がfalseの時
+// const val1 = 1 > 0 ? 'trueです' : 'falseです';
+// const val2 = 1 < 0 ? 'trueです' : 'falseです';
+// console.log(val1);
+// console.log(val2);
+
+// const num = "1300";
+
+// const formattedNum = typeof num === 'number' ? num.toLocaleString() :  '数値を入力してください' ;
+// console.log(formattedNum);
